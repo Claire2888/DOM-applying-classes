@@ -17,17 +17,22 @@ div {
   background-color: #eee;
 }
 
-.blue {
+#one {
   background-color: blue;
 }
 
-.invisible {
-  display: none;
+#two {
+  background-color: green;
+}
+
+#three {
+  background-color: pink;
 }
 
 .visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color: orangered;
 }
+
